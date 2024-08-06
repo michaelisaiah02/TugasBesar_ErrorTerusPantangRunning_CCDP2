@@ -1,5 +1,3 @@
-package Behavioral.Command;
-
 public class Invoker {
     private Command command;
 

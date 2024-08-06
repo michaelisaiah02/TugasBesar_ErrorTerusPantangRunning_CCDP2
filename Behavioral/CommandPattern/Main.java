@@ -1,5 +1,3 @@
-package Behavioral.Command;
-
 public class Main {
     public static void main(String[] args) {
         Guru guru1 = new Guru("Budi");
