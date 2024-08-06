@@ -7,6 +7,6 @@ class NotificationService implements Observer {
 
     @Override
     public void update(boolean isPresent) {
-        System.out.println("Layanan Pemberitahuannnnnnnnnnn: " + teacherName + " - " + (isPresent ? "Hadir" : "Tidak Hadir"));
+        System.out.println("Layanan Pemberitahuan: " + teacherName + " - " + (isPresent ? "Hadir" : "Tidak Hadir"));
     }
 }
