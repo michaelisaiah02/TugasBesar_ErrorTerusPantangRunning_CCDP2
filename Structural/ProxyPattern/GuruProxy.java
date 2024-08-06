@@ -1,5 +1,3 @@
-package ProxyPattern;
-
 public class GuruProxy implements Guru {
     private GuruTetap guruTetap;
 

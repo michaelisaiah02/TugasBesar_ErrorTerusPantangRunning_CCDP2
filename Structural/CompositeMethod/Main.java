@@ -1,5 +1,3 @@
-package CompositeMethod;
-
 public class Main {
     public static void main(String[] args) {
         AbsensiIndividu guru1 = new AbsensiIndividu("Guru A");

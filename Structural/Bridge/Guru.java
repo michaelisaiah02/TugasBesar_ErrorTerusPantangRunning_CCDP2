@@ -1,5 +1,3 @@
-package Structural.Bridge;
-
 public abstract class Guru {
     protected Absensi absensi;
 

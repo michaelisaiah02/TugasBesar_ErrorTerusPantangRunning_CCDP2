@@ -1,6 +1,4 @@
-package TemplatePattern;
-
-public class TemplateMethodTest {
+public class Main {
     public static void main(String[] args) {
         AbsensiGuru guruTetap = new GuruTetap();
         guruTetap.absen();

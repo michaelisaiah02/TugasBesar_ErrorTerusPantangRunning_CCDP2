@@ -1,5 +1,3 @@
-package TemplatePattern;
-
 public class GuruHonorer extends AbsensiGuru {
     @Override
     void hadir() {

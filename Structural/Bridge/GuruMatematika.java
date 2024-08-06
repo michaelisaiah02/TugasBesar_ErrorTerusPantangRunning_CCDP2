@@ -1,5 +1,3 @@
-package Structural.Bridge;
-
 public class GuruMatematika extends Guru {
     public GuruMatematika(Absensi absensi) {
         super(absensi);

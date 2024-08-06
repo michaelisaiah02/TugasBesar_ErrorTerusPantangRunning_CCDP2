@@ -1,5 +1,3 @@
-package StrategyMethod;
-
 public class Main {
     public static void main(String[] args) {
         AbsensiContext context = new AbsensiContext();

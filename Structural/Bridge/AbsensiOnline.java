@@ -1,5 +1,3 @@
-package Structural.Bridge;
-
 public class AbsensiOnline implements Absensi {
     @Override
     public void absensi(String namaGuru) {

@@ -1,5 +1,3 @@
-package ProxyPattern;
-
 public class GuruTetap implements Guru {
     @Override
     public void hadir() {

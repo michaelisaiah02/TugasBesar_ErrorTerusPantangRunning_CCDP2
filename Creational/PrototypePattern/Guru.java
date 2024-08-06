@@ -1,6 +1,3 @@
-package Creational.Prototype;
-
-
 public class Guru implements Cloneable {
     private String nama;
     private String nip;
