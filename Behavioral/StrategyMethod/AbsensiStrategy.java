@@ -1,4 +1,4 @@
-package strategymethod;
+package StrategyMethod;
 
 public interface AbsensiStrategy {
     void doAbsensi();

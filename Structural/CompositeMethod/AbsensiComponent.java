@@ -1,4 +1,4 @@
-package compositemethod;
+package CompositeMethod;
 
 public interface AbsensiComponent {
     void doAbsensi();

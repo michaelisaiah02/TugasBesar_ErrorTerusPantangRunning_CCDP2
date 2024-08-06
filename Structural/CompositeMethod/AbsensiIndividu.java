@@ -1,4 +1,4 @@
-package compositemethod;
+package CompositeMethod;
 
 public class AbsensiIndividu implements AbsensiComponent {
     private String namaGuru;

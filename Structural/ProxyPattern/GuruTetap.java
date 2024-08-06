@@ -1,4 +1,4 @@
-package proxy;
+package ProxyPattern;
 
 public class GuruTetap implements Guru {
     @Override

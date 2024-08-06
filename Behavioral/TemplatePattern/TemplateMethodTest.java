@@ -1,4 +1,4 @@
-package template;
+package TemplatePattern;
 
 public class TemplateMethodTest {
     public static void main(String[] args) {

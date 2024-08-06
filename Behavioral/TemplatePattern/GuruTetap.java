@@ -1,4 +1,4 @@
-package template;
+package TemplatePattern;
 
 public class GuruTetap extends AbsensiGuru {
     @Override

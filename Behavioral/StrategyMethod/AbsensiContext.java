@@ -1,4 +1,4 @@
-package strategymethod;
+package StrategyMethod;
 
 public class AbsensiContext {
     private AbsensiStrategy strategy;

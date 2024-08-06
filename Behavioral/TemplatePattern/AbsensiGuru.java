@@ -1,4 +1,4 @@
-package template;
+package TemplatePattern;
 
 public abstract class AbsensiGuru {
     public final void absen() {

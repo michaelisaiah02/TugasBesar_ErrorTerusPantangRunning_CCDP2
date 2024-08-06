@@ -1,4 +1,4 @@
-package compositemethod;
+package CompositeMethod;
 
 public class Main {
     public static void main(String[] args) {
